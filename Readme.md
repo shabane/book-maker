@@ -43,7 +43,7 @@
 > the last tip is to add theas fild to each page.
 >
 > |field in each page|require|
-> |:-----:|:-----------------|
+> |:-----:|:-----------------:|
 > |Title|*|
 > |Date|*|
 > |Modified|optional|
