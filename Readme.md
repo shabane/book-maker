@@ -10,7 +10,7 @@
 > every thing you need to know about the file and directory structure are there.
 
 ### preview
-![book-maker](./rimg.jpg)
+![book-maker](rimg.jpg)
 
 ### how to use
 > 1. make sure python and pip are installed.
