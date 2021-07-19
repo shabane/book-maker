@@ -33,7 +33,7 @@
 >
 > 5.5 'support.markdown' if you need to supported by other people write your payment address here.
 ---
-> dont forget to change some name and simple config in the 'pelicanconf.py'(such as time-zone)
+> 6. dont forget to change some name and simple config in the 'pelicanconf.py'(such as time-zone) that is it, you done.
 ---
 > affter all, whene you done, enter this command in the directory of your project ```pelican```
 >
@@ -42,16 +42,16 @@
 ---
 > the last tip is to add theas fild to each page.
 >
-> |field in each page|
-> |:-----:|
-> |Title|
-> |Date|
-> |Modified|
-> |Category|
-> |Tags|
-> |Slug|
-> |Authors|
-> |Summary|
+> |field in each page|require|
+> |:-----:|:-----------------|
+> |Title|*|
+> |Date|*|
+> |Modified|optional|
+> |Category|optional|
+> |Tags|optional|
+> |Slug|optional|
+> |Authors|optional|
+> |Summary|optional|
 >
 > #### for example:
 > ```Title: My super title
