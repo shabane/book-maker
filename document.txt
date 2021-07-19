@@ -1,0 +1,31 @@
+[documentation]
+	in this file i will describe what you should do and change to make the blog-generator for your self.	
+
+[directoris]
+	in the content directory we have two sub dir ['chapters', 'pages']
+	all the book and blog post should be under the chapters directory.
+	and 'pages' directory is the directory that we introdus our self there.
+
+[pages directory]
+	in 'pages' directory we have theas file(s):
+
+	- about.markdown
+		yes its quite enough clear, this is the 'about us' file.
+
+	- discuss.markdown
+		if you have some place for people to discuss to goter about your site, link that here.
+
+	- download.markdown
+		yes this is clear too. link the downloadable of your site here.
+
+	- index.markdown
+		the first page of your site is this.
+
+	- support.markdown
+		if you need some money, you can let people donate you, link the donate address here.
+
+
+[link your social media]
+	to do this you should change some value of this file'./theme/bootstrap/templates/sidebar.html' 
+	in line 9 of the file there is the links. you can even add another <li> tag to add another link to you.
+	
