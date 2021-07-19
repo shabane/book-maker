@@ -9,6 +9,9 @@
 > if you want to use this, just download it and read the documentation in the project.
 > every thing you need to know about the file and directory structure are there.
 
+### preview
+![book-maker](./rimg.jpg)
+
 ### how to use
 > 1. make sure python and pip are installed.
 ---
@@ -62,5 +65,4 @@
 > Slug: my-super-post
 > Authors: Alexis Metaireau, Conan Doyle
 > Summary: Short version for index and feeds```
-
 
