@@ -32,6 +32,12 @@
 > 5.4 'index.markdown' this is the cover of you book.
 >
 > 5.5 'support.markdown' if you need to supported by other people write your payment address here.
-
+>
+> affter all, whene you done, enter this command in the directory of your project ```pelican```
+>
+> now in the 'output' folder there is your site/blog/book. to see what you done enter this command ```pelican --listen```
+> so now you can go to 127.0.0.1:8000 in your browser to see the site.
+> 
+> 
 
 
