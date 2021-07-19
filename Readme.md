@@ -38,7 +38,7 @@
 > affter all, whene you done, enter this command in the directory of your project ```pelican```
 >
 > now in the 'output' folder there is your site/blog/book. to see what you done enter this command ```pelican --listen```
-> so now you can go to 127.0.0.1:8000 in your browser to see the site.
+> so now you can go to [127.0.0.1:8000](127.0.0.1:8000) in your browser to see the site.
 ---
 > the last tip is to add theas fild to each page.
 >
